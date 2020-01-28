@@ -1,0 +1,95 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #E4F9F5;
+}
+
+h1{
+  font-size: 90px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #66BFBF;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+p{
+  font-size: 1.5em;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding: 20px;
+  margin: 10px;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+
+}
+.bottom-container{
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  top: 175px;
+}
+.top-cloud{
+  position: absolute;
+  right: 260px;
+  top: 50px;
+}
+.circular-image{
+  border-radius: 30%;
+}
+
+.skill-row{
+  img{
+    width: 200px;
+    height: 200px;
+  }
+  width: 50%;
+}
+img{
+  border-radius: 50%;
+}
+.skills{
+  text-align: left;
+  line-height: 2;
+  width: 60%;
+  margin: auto;
+}
+.blog{
+  text-align: center;
+}
+
+.anchor{
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+.arijit{
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+}
+.keki{
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
